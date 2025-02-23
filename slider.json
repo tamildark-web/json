@@ -1,16 +1,16 @@
 [
   {
-    "name": "Movie 1",
-    "poster": "https://example.com/poster1.jpg",
-    "releaseDate": "2023-10-01",
+    "name": "Vidaamuyarchi",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00408788-hqkcdlqwcj-landscape.jpg",
+    "releaseDate": "6 February 2025",
     "rating": 4,
     "description": "A thrilling action movie."
   },
   {
-    "name": "Movie 2",
-    "poster": "https://example.com/poster2.jpg",
-    "releaseDate": "2023-11-01",
-    "rating": 5,
-    "description": "A heartwarming drama."
+    "name": "Nilavuku En Mel Ennadi Kobam",
+    "poster": "https://igimage.indiaglitz.com/tamil/home/neek-movie-review212025m.jpg",
+    "releaseDate": "21 February 2025 ",
+    "rating": 3,
+    "description": "Romantic"
   }
 ]
