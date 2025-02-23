@@ -1,7 +1,7 @@
 [
   {
-    "title": "NewMovie",
-    "poster": "assets/movie1.jpg",
+    "title": "Vidaamuyarchi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg",
     "year": 2024,
     "duration": "2h",
     "description": "Sequel to the global hit My Fault; the love between Noah and Nick seems unwavering...",
