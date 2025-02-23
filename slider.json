@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie 1",
+    "poster": "https://example.com/poster1.jpg",
+    "releaseDate": "2023-10-01",
+    "rating": 4,
+    "description": "A thrilling action movie."
+  },
+  {
+    "name": "Movie 2",
+    "poster": "https://example.com/poster2.jpg",
+    "releaseDate": "2023-11-01",
+    "rating": 5,
+    "description": "A heartwarming drama."
+  }
+]
