@@ -19,4 +19,70 @@
     "watchLink": "https://example.com/watch/petfull",
     "downloadLink": "https://example.com/download/petfull"
   }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
+,
+  {
+    "title": "PetFull",
+    "poster": "assets/movie2.jpg",
+    "year": 2023,
+    "duration": "1h 45m",
+    "description": "A thrilling adventure about a pet and its owner.",
+    "rating": 5,
+    "watchLink": "https://example.com/watch/petfull",
+    "downloadLink": "https://example.com/download/petfull"
+  }
 ]
