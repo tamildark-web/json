@@ -1,19 +1,19 @@
 [
   {
     "title": "Movie 1",
-    "poster": "assets/movie1.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg",
     "rating": 4,
     "watchLink": "https://example.com/watch/movie1"
   },
   {
     "title": "Movie 2",
-    "poster": "assets/movie2.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg",
     "rating": 5,
     "watchLink": "https://example.com/watch/movie2"
   },
   {
     "title": "Movie 3",
-    "poster": "assets/movie3.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg",
     "rating": 3,
     "watchLink": "https://example.com/watch/movie3"
   }
