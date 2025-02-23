@@ -1,11 +1,5 @@
 [
-  {
-    "link": "https://www.youtube.com/watch?v=1IIifCYwTGc&t=17s"
-  },
-  {
-    "link": "https://www.youtube.com/embed/video2"
-  },
-  {
-    "link": "https://www.youtube.com/embed/video3"
-  }
+  "https://www.youtube.com/watch?v=1IIifCYwTGc&t=51s",
+  "https://www.youtube.com/embed/abc123",
+  "https://www.youtube.com/embed/xyz456"
 ]
